@@ -20,6 +20,7 @@
 
 ## Convolutional Neural Network Model
 <img src='https://ars.els-cdn.com/content/image/1-s2.0-S235291482030201X-gr6.jpg'></img>
+<img width="990" alt="Screenshot 2022-12-20 at 12 05 41 AM" src="https://user-images.githubusercontent.com/76906632/208495771-1af696ba-f542-4621-b9fb-622f6b8b92e0.png">
 
 
 
